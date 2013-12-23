@@ -1,0 +1,1264 @@
+# Webalizer V2.20-01 Incremental Data - 12/21/2013 08:32:59
+2013 12 21 8 32 59
+19258 14029 38 422 59 34 383253404 1201 121 0
+2 11 907 1 21
+1742 872 31861297 4 145 7
+1984 1316 38506845 5 115 8
+514 218 10250848 5 139 8
+1010 586 27084088 9 149 14
+1648 872 16791680 5 101 9
+1091 998 2441503 7 38 7
+155 143 117994 5 3 3
+15 11 555644 2 6 1
+1855 1184 20347453 6 107 9
+2150 1950 10261035 4 74 6
+1152 1141 572280 2 2 1
+2316 1803 67136361 7 99 10
+1928 1556 129591304 13 126 19
+24 24 6984 2 0 0
+172 171 101500 2 1 1
+690 405 20887566 8 62 8
+242 234 5352482 3 13 2
+58 58 57343 3 3 1
+293 292 258906 4 6 4
+169 145 1042737 4 12 3
+50 50 27554 2 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+435 426 272003 3
+655 635 5119438 12
+1336 685 13913687 68
+1078 501 11566551 68
+177 177 144784 1
+173 173 91981 1
+182 182 87682 0
+196 196 97551 0
+268 246 6238362 10
+212 212 132717 3
+538 369 7574616 26
+503 363 3362824 51
+1363 844 33153537 129
+2188 1357 72653730 162
+1794 1405 18879213 46
+1166 956 30919177 58
+1186 864 42054482 92
+1999 1430 106852052 174
+911 694 12728090 53
+996 669 10129243 164
+528 470 3947921 26
+451 376 664925 21
+455 391 912441 14
+468 408 1756397 19
+0
+0
+0
+14029
+0
+0
+0
+0
+0
+26
+0
+10
+98
+0
+4890
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+203
+0
+0
+0
+0
+0
+# -urls- 
+/wp-content/uploads/2013/10/process-rad-sm.png
+0 2 0 19762 0 0
+/wp-content/uploads/2013/10/logo-tandemgroup.png
+0 2 0 18268 0 0
+/wp-includes/js/tinymce/wp-tinymce.php
+0 63 0 7353867 0 0
+/wp-content/uploads/2013/10/logo-lenovo.jpg
+0 1 0 3686 0 0
+/wp-content/themes/boilerplate/images/story/bg2.jpg
+0 82 0 78846559 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_PracAreas_Insight-300x69.jpg
+0 4 0 16940 0 0
+/wp-admin/images/date-button.gif
+0 33 0 2000 0 0
+/wp-content/uploads/2013/10/messaging-300x180.png
+0 1 0 28470 0 0
+/wp-admin/plugins.php
+0 12 0 667697 0 0
+/wp-content/themes/boilerplate/fonts/helveticaneueltcom-lt-webfont.woff
+0 26 0 505316 0 0
+/
+0 136 0 2767633 43 13
+/wp-content/uploads/2013/10/industry-heading-150x150.jpg
+0 7 0 13430 0 0
+/wp-content/plugins/updraftplus/images/dropbox-logo.png
+0 4 0 4672 0 0
+/wp-content/uploads/2013/11/DG_TertiaryPgBanner_FinServ_F.jpg
+0 2 0 58886 0 0
+/wp-content/uploads/2013/10/industry-heading1.jpg
+0 15 0 3028344 0 0
+/wp-content/plugins/advanced-custom-fields/css/global.css
+0 31 0 98623 0 0
+/wp-includes/images/wpicons.png
+0 13 0 64356 0 0
+/wp-content/uploads/2013/10/about-heading-150x150.jpg
+0 4 0 5868 0 0
+/wp-includes/js/tinymce/plugins/wpeditimage/img/image.png
+0 35 0 4730 0 0
+/wp-content/uploads/2013/10/prac-areas-heading.jpg
+0 1 0 239701 0 0
+/wp-content/plugins/backwpup/css/page_edit_tab_cron.css
+0 1 0 405 0 0
+/wp-content/uploads/2013/10/2-300x133.jpg
+0 3 0 18531 0 0
+/wp-content/themes/boilerplate/fonts/HelveticaNeueLTStd-ThCn.otf
+0 173 0 1222366 0 0
+/wp-admin/css/colors-fresh.min.css
+0 70 0 376080 0 0
+/wp-content/plugins/ml-slider/assets/metaslider/matchalabs.png
+0 54 0 4872 0 0
+/wp-content/themes/boilerplate/fonts/HelveticaNeueLTStd-LtCn.otf
+0 151 0 878416 0 0
+/wp-content/uploads/2013/10/industry-heading1-150x150.jpg
+0 2 0 6738 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_Contact.jpg
+0 12 0 180153 0 0
+/wp-content/plugins/updraftplus/includes/jquery-ui-1.8.22.custom.css
+0 4 0 33349 0 0
+/wp-content/themes/boilerplate/images/story/bg1.jpg
+0 84 0 74594068 0 0
+/wp-includes/js/tinymce/tiny_mce_popup.js
+0 7 0 4908 0 0
+/wp-content/themes/boilerplate/js/orbit/orbit/pause-black.png
+0 5 0 990 0 0
+/wp-content/themes/boilerplate/boilerplate-admin/admin-style.css
+0 21 0 7128 0 0
+/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/buttons.gif
+0 2 0 1978 0 0
+/wp-content/uploads/2013/10/growth-strategy-300x144.png
+0 3 0 132603 0 0
+/wp-content/themes/boilerplate/fonts/helveticaneueltcom-lt-webfont.eot
+0 9 0 112196 0 0
+/wp-content/themes/boilerplate/images/social.png
+0 203 0 251867 0 0
+/wp-admin/images/resize-2x.gif
+0 2 0 468 0 0
+/wp-admin/plugin-install.php
+0 5 0 258814 0 0
+/wp-content/uploads/2013/10/team-mark.png
+0 2 0 85002 0 0
+/wp-content/themes/boilerplate/style.css
+0 1 0 42695 0 0
+/practice-areas/digital-experiences/
+0 7 0 110281 0 0
+/wp-includes/js/tinymce/plugins/wpeditimage/img/image-2x.png
+0 2 0 5374 0 0
+/wp-content/plugins/backwpup/images/imagedata.png
+0 1 0 7155 0 0
+/wp-content/themes/boilerplate/fonts/helveticaneueltstd-ultlt-webfont.eot
+0 15 0 88592 0 0
+/wp-admin/
+0 24 0 1698980 2 7
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_Industries_SMB-300x69.jpg
+0 3 0 16524 0 0
+/wp-content/plugins/backwpup/images/tickeven.png
+0 1 0 15094 0 0
+/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/dialog.css
+0 7 0 6090 0 0
+/wp-content/plugins/seo-ultimate/includes/jlsuggest/jlsuggest.css
+0 28 0 14872 0 0
+/wp-content/plugins/seo-ultimate/includes/encoder.js
+0 30 0 95072 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_OurStory.jpg
+0 29 0 106440 0 0
+/wp-content/uploads/2013/10/main-metrics-300x168.png
+0 1 0 41834 0 0
+/industries/
+0 61 0 1052040 2 2
+/wp-content/themes/boilerplate/images/story/slide3.jpg
+0 71 0 7367600 0 0
+/wp-content/plugins/backwpup/images/imagesave.png
+0 1 0 15922 0 0
+/wp-content/plugins/backwpup/images/BackWPup16.png
+0 10 0 1254 0 0
+/practice-areas/brand-engineering/
+0 3 0 46716 0 0
+/wp-content/plugins/backwpup/css/admin.css
+0 10 0 2385 0 0
+/case-study/
+0 2 0 45411 0 0
+/wp-content/uploads/2013/10/Digital-Valuable.png
+0 2 0 27830 0 0
+/wp-includes/images/admin-bar-sprite-2x.png
+0 2 0 8244 0 0
+/wp-content/uploads/2013/10/about-heading1-300x133.jpg
+0 4 0 45836 0 0
+/wp-content/plugins/seo-ultimate/modules/404s/hit-cache.png
+0 1 0 793 0 0
+/contact/
+0 15 0 247059 2 2
+/wp-content/themes/boilerplate/images/sub-nav-bg.jpg
+0 203 0 1276121 0 0
+/wp-content/plugins/advanced-custom-fields/js/field-group.min.js
+0 5 0 37422 0 0
+/wp-content/uploads/2013/10/Purp-Strat-Exe-300x137.png
+0 1 0 30704 0 0
+/wp-includes/js/imgareaselect/imgareaselect.css
+0 1 0 790 0 0
+/wp-content/plugins/updraftplus/includes/images/ui-bg_glass_65_ffffff_1x400.png
+0 1 0 105 0 0
+/wp-content/uploads/2013/10/topright-board-150x150.jpg
+0 1 0 6265 0 0
+/wp-content/plugins/seo-ultimate/includes/jlsuggest/jlsuggest.js
+0 30 0 73288 0 0
+/wp-admin/post-new.php
+0 7 0 714135 0 0
+/wp-content/plugins/backwpup/css/page_jobs.css
+0 2 0 1378 0 0
+/wp-includes/js/zxcvbn.min.js
+0 3 0 2095728 0 0
+/2013/10/
+0 1 0 14017 1 0
+/wp-includes/js/tinymce/themes/advanced/source_editor.htm
+0 7 0 957 0 0
+/wp-content/plugins/ml-slider/assets/metaslider/image/image.js
+0 3 0 4968 0 0
+/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/horizontal.gif
+0 1 0 769 0 0
+/wp-content/plugins/backwpup/js/page_edit_tab_job.js
+0 1 0 4798 0 0
+/wp-content/uploads/2013/10/storybg3.png
+0 97 0 771928 0 0
+/wp-admin/admin-ajax.php
+0 9280 0 6102056 0 0
+/wp-content/uploads/2013/10/topright-healthcare.jpg
+0 3 0 142530 0 0
+/wp-admin/user-new.php
+0 2 0 57584 0 0
+/wp-content/themes/boilerplate/fonts/helveticaneueltstd-thcn-webfont.woff
+0 36 0 789730 0 0
+/wp-admin/images/comment-grey-bubble.png
+0 15 0 684 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_AboutUs_OurTeam-300x69.jpg
+0 3 0 14487 0 0
+/wp-content/plugins/backwpup/js/page_edit_tab_cron.js
+0 1 0 3756 0 0
+/wp-content/themes/boilerplate/images/story/slide2.jpg
+0 71 0 7413687 0 0
+/case-study/lenovo/
+0 10 0 183616 1 0
+/wp-content/uploads/2013/10/storybg3-300x100.png
+0 10 0 14660 0 0
+/wp-content/uploads/2013/10/value-prop-300x265.png
+0 1 0 61988 0 0
+/wp-content/uploads/2013/10/topright-dialogoffice-150x150.jpg
+0 1 0 7649 0 0
+/wp-includes/js/tinymce/plugins/wpgallery/img/edit.png
+0 35 0 7950 0 0
+/wp-content/plugins/backwpup/images/imagecloud.png
+0 1 0 25416 0 0
+/wp-content/themes/boilerplate/images/nav-slide-menu-bg.jpg
+0 218 0 524062 0 0
+/wp-content/uploads/2013/10/growth-strategy1-300x144.png
+0 2 0 88402 0 0
+/about/dialog-faculty/
+0 62 0 1106160 4 3
+/wp-content/themes/boilerplate/fonts/helveticaneueltstd-ltcn-webfont.eot
+0 9 0 85160 0 0
+/hello-world/
+0 1 0 17836 1 0
+/wp-content/uploads/2013/10/1-300x133.jpg
+0 3 0 12024 0 0
+/wp-content/plugins/updraftplus/images/rackspacecloud-logo.png
+0 4 0 25925 0 0
+/wp-content/uploads/2013/10/dialog-logos-292x300.png
+0 2 0 127710 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_Industries_Retail.jpg
+0 2 0 28802 0 0
+/wp-content/uploads/2013/10/our-story-heading1.jpg
+0 74 0 13065172 0 0
+/wp-content/uploads/2013/10/Dialog_WebMap.jpg
+0 3 0 40008 0 0
+/wp-content/uploads/2013/10/topright-star.png
+0 1 0 43405 0 0
+/wp-content/plugins/ml-slider/assets/metaslider/admin.css
+0 3 0 37074 0 0
+/blog/
+0 16 0 443684 0 2
+/wp-content/plugins/backwpup/images/tickodd.png
+0 1 0 22356 0 0
+/wp-admin/plugin-editor.php
+0 10 0 604945 0 0
+/wp-content/uploads/2013/10/storybg2.png
+0 97 0 812304 0 0
+/wp-content/plugins/backwpup/images/tickhover.png
+0 2 0 24388 0 0
+/wp-includes/images/uploader-icons.png
+0 16 0 9558 0 0
+/wp-content/themes/boilerplate/images/dlg_logo_top.png
+0 204 0 82056 0 0
+/wp-content/themes/boilerplate/fonts/HelveticaNeueLTCom-Lt.otf
+0 121 0 3473993 0 0
+/wp-content/uploads/2013/12/adobe-case-study2.jpg
+0 12 0 1245050 0 0
+/wp-content/themes/boilerplate/images/story/slide1.jpg
+0 73 0 6929481 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_PracAreas_Insight.jpg
+0 25 0 191554 0 0
+/wp-content/themes/boilerplate/js/orbit/jquery.orbit.js
+0 227 0 320460 0 0
+/wp-content/uploads/2013/10/slide3-218x300.jpg
+0 3 0 18944 0 0
+/wp-content/uploads/2013/11/DG_HmRot1.5.jpg
+0 105 0 681520 0 0
+/wp-content/uploads/2013/10/DialogOrigami_IndusOverview-150x150.jpg
+0 1 0 4669 0 0
+/wp-includes/images/down_arrow.gif
+0 11 0 240 0 0
+/wp-content/plugins/backwpup/css/page_about.css
+0 1 0 6584 0 0
+/wp-content/plugins/updraftplus/includes/images/ui-bg_glass_100_fdf5ce_1x400.png
+0 1 0 125 0 0
+/industries/small-and-medium-business/
+0 4 0 68973 0 0
+/wp-content/plugins/wp-minify/min/
+0 393 0 1344962 17 30
+/wp-content/uploads/2013/12/lenovo-case-study-300x133.jpg
+0 4 0 50312 0 0
+/wp-content/plugins/ml-slider/assets/tipsy/tipsy.css
+0 3 0 6498 0 0
+/wp-content/uploads/2013/10/storybg1.png
+0 98 0 554459 0 0
+/wp-content/uploads/2013/10/logo-ironone.png
+0 2 0 58866 0 0
+/wp-admin/user-edit.php
+0 1 0 31979 0 0
+/wp-content/uploads/2013/12/adobe-case-study1.jpg
+0 1 0 249010 0 0
+/wp-includes/js/tinymce/plugins/wpgallery/img/delete-2x.png
+0 2 0 10128 0 0
+/wp-content/uploads/2013/10/prac-areas-heading-150x150.jpg
+0 2 0 6318 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_AboutUs_OurTeam-150x150.jpg
+0 2 0 6310 0 0
+/wp-content/uploads/2013/11/DG_HmRot1.5-300x133.jpg
+0 4 0 21888 0 0
+/wp-content/plugins/advanced-custom-fields/images/wpspin_light@2x.gif
+0 2 0 18194 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_Industries_HC1-300x69.jpg
+0 3 0 15402 0 0
+/wp-content/uploads/2013/10/Intersection-300x140.png
+0 1 0 32823 0 0
+/wp-content/uploads/2013/10/logo-adobe.jpg
+0 1 0 4767 0 0
+/wp-includes/js/tinymce/plugins/wpgallery/img/delete.png
+0 35 0 6930 0 0
+/wp-admin/theme-editor.php
+0 15 0 870557 0 0
+/wp-content/plugins/backwpup/images/hgbtgreen.png
+0 1 0 16533 0 0
+/wp-content/uploads/2013/10/Testamonial-hp-300x191.jpg
+0 1 0 21637 0 0
+/wp-admin/async-upload.php
+0 21 0 42765 0 0
+/wp-content/plugins/backwpup/images/even.png
+0 1 0 180214 0 0
+/wp-content/uploads/2013/10/map1.png
+0 1 0 49245 0 0
+/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/content.css
+0 10 0 25963 0 0
+/wp-includes/js/tinymce/plugins/wpeditimage/img/delete-2x.png
+0 2 0 10128 0 0
+/wp-admin/images/wordpress-logo.png
+0 13 0 14880 0 0
+/wp-content/plugins/backwpup/images/errorodd.png
+0 1 0 22055 0 0
+/wp-content/uploads/2013/10/our-story-heading-150x150.jpg
+0 2 0 7346 0 0
+/wp-content/themes/boilerplate/fonts/HelveticaNeueLTStd-UltLt.otf
+0 203 0 1168946 0 0
+/wp-content/themes/boilerplate/images/nav-bg.gif
+0 203 0 4189493 0 0
+/wp-cron.php
+0 394 0 3520 0 0
+/wp-includes/js/tinymce/plugins/wpeditimage/img/delete.png
+0 35 0 6930 0 0
+/wp-includes/js/admin-bar.min.js
+0 111 0 172956 0 0
+/wp-admin/images/list.png
+0 6 0 5015 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_PracAreas_BrandEngin.jpg
+0 2 0 17232 0 0
+/wp-content/uploads/2013/12/adobe-case-study.jpg
+0 1 0 204338 0 0
+/wp-content/plugins/ml-slider/assets/tipsy/jquery.tipsy.js
+0 3 0 29361 0 0
+/wp-content/uploads/2013/10/prac-areas-heading1-300x133.jpg
+0 4 0 44384 0 0
+/wp-content/plugins/seo-ultimate/plugin/global.js
+0 74 0 2472 0 0
+/wp-content/plugins/seo-ultimate/modules/modules.js
+0 1 0 985 0 0
+/wp-admin/images/media-button.png
+0 40 0 2261 0 0
+/wp-admin/images/date-button-2x.gif
+0 2 0 1984 0 0
+/wp-content/uploads/2013/10/storybg2-300x100.png
+0 6 0 14424 0 0
+/wp-content/uploads/2013/10/topright-smb.jpg
+0 2 0 178400 0 0
+/wp-includes/js/thickbox/tb-close.png
+0 1 0 387 0 0
+/wp-content/plugins/seo-ultimate/modules/404s/fofs.css
+0 1 0 668 0 0
+/wp-includes/js/imgareaselect/border-anim-h.gif
+0 1 0 178 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_PracAreas_GrowStrat-300x69.jpg
+0 3 0 13314 0 0
+/wp-content/plugins/backwpup/images/errorhover.png
+0 2 0 22965 0 0
+/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/corners.gif
+0 1 0 909 0 0
+/wp-content/plugins/backwpup/images/hgtopgreen.png
+0 1 0 16669 0 0
+/wp-content/plugins/ml-slider/assets/colorbox/images/overlay.png
+0 2 0 364 0 0
+/wp-content/plugins/backwpup/images/inpsyde.png
+0 1 0 12788 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_AboutUs_OurTeam.jpg
+0 2 0 39584 0 0
+/wp-includes/js/tinymce/plugins/wpgallery/img/edit-2x.png
+0 2 0 9848 0 0
+/wp-content/uploads/2013/10/our-story-heading1-300x133.jpg
+0 4 0 53720 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_PracAreas_Insight-150x150.jpg
+0 3 0 2752 0 0
+/wp-content/uploads/2013/11/DG_TertiaryPgBanner_FinServ_F-150x150.jpg
+0 2 0 3217 0 0
+/about/our-team/
+0 23 0 486849 3 3
+/wp-content/uploads/2013/12/adobe-case-study2-300x133.jpg
+0 4 0 48904 0 0
+/wp-content/plugins/seo-ultimate/modules/404s/hit-delete.png
+0 1 0 715 0 0
+/wp-content/uploads/2013/10/logo-santa-fe-institute.png
+0 2 0 46140 0 0
+/robots.txt
+0 10 0 3120 0 0
+/wp-includes/js/thickbox/thickbox.css
+0 40 0 32912 0 0
+/wp-content/uploads/2013/10/Dialog-Engagement-Process-v1-300x208.png
+0 1 0 58861 0 0
+/wp-content/uploads/2013/10/logo-amd.gif
+0 1 0 2059 0 0
+/wp-includes/images/blank.gif
+0 6 0 215 0 0
+/wp-content/uploads/2013/10/logo-dell.jpg
+0 1 0 3274 0 0
+/wp-content/plugins/advanced-custom-fields/css/acf.css
+0 5 0 17205 0 0
+/wp-content/uploads/2013/12/starwood-case-study-300x133.jpg
+0 4 0 48920 0 0
+/wp-content/uploads/2013/10/topright-retail-150x150.jpg
+0 3 0 20072 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_AboutUs_OurTeam1.jpg
+0 23 0 197920 0 0
+/wp-content/plugins/seo-ultimate/includes/tabs.js
+0 23 0 11473 0 0
+/wp-content/uploads/2013/10/about-heading.jpg
+0 3 0 367985 0 0
+/wp-includes/js/tinymce/themes/advanced/js/source_editor.js
+0 7 0 1616 0 0
+/wp-content/plugins/backwpup/images/backwpupbanner-free.png
+0 1 0 60136 0 0
+/wp-content/themes/boilerplate/js/orbit/orbit/loading.gif
+0 87 0 70416 0 0
+/wp-content/plugins/seo-ultimate/modules/modules/modules.css
+0 1 0 896 0 0
+/adobe-2/
+0 2 0 40628 0 0
+/wp-content/uploads/2013/10/about-heading1-150x150.jpg
+0 3 0 11744 0 0
+/wp-content/uploads/2013/10/logo-vmware.jpg
+0 1 0 4326 0 0
+/wp-admin/load-scripts.php
+0 343 0 20391935 0 0
+/about/our-partners/
+0 12 0 207601 0 0
+/wp-content/plugins/backwpup/js/page_settings.js
+0 4 0 837 0 0
+/practice-areas/
+0 65 0 1124324 4 0
+/favicon.ico
+0 242 0 47810 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_PracAreas_DigitalExp.jpg
+0 8 0 95275 0 0
+/wp-includes/js/imgareaselect/border-anim-v.gif
+0 1 0 178 0 0
+/wp-content/uploads/2013/10/logo-freescale.jpg
+0 1 0 3168 0 0
+/industries/public-sector/
+0 4 0 61675 0 0
+/wp-content/uploads/2013/10/topright-public-150x150.jpg
+0 3 0 17826 0 0
+/wp-content/plugins/backwpup/images/mp_logo_small.png
+0 1 0 4828 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_PracAreas_DigitalExp-300x69.jpg
+0 3 0 13605 0 0
+/wp-content/plugins/backwpup/images/BackWPup32.png
+0 1 0 2641 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_PracAreas_Channel-150x150.jpg
+0 1 0 2752 0 0
+/wp-content/uploads/2013/10/topright-meetingcoffee.jpg
+0 86 0 1029457 0 0
+/wp-content/uploads/2013/12/starwood-case-study.jpg
+0 10 0 1368822 0 0
+/wp-content/plugins/seo-ultimate/modules/404s/hit-details.png
+0 1 0 748 0 0
+/2013/
+0 1 0 14007 0 1
+/wp-content/plugins/advanced-custom-fields/images/sprite@2x.png
+0 1 0 12829 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_Industries_PubSec.jpg
+0 4 0 101996 0 0
+/wp-content/uploads/2013/10/analytics-300x179.png
+0 2 0 98226 0 0
+/wp-content/plugins/backwpup/images/hover.png
+0 2 0 955 0 0
+/wp-content/uploads/2013/12/adobe-case-study-300x133.jpg
+0 4 0 49560 0 0
+/wp-admin/images/comment-grey-bubble-2x.png
+0 1 0 259 0 0
+/about/dialog-faculty/dialog-faculty-listing/
+0 8 0 212181 1 0
+/wp-content/uploads/2013/10/dialog-process-300x168.png
+0 1 0 47197 0 0
+/wp-content/uploads/2013/10/Team-BobG.png
+0 2 0 61702 0 0
+/practice-areas/channel-effectiveness/
+0 11 0 177470 1 1
+/wp-content/uploads/2013/10/storybg1-300x100.png
+0 14 0 11304 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_Industries_HC1.jpg
+0 4 0 66861 0 0
+/wp-content/plugins/updraftplus/includes/updraft-admin-ui.js
+0 4 0 28620 0 0
+/wp-content/plugins/updraftplus/includes/images/ui-icons_222222_256x240.png
+0 1 0 4369 0 0
+/wp-content/plugins/backwpup/images/BackWPup20.png
+0 1 0 1408 0 0
+/wp-admin/images/icons32-2x.png
+0 2 0 71290 0 0
+/wp-content/uploads/2013/10/topright-healthcare-150x150.jpg
+0 1 0 7034 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_PracAreas_GrowStrat.jpg
+0 8 0 50667 0 0
+/wp-includes/js/tinymce/themes/advanced/skins/default/img/menu_arrow.gif
+0 2 0 68 0 0
+/wp-content/uploads/2013/10/logo-starwood.png
+0 1 0 7356 0 0
+/wp-content/plugins/updraftplus/includes/images/ui-bg_highlight-soft_100_eeeeee_1x100.png
+0 1 0 90 0 0
+/wp-content/plugins/backwpup/js/jquery.tipTip.minified.js
+0 9 0 8837 0 0
+/wp-content/uploads/2013/10/topright-ipad.jpg
+0 2 0 112806 0 0
+/our-story/
+0 128 0 2224883 14 8
+/wp-content/plugins/backwpup/css/adminbar.css
+0 10 0 867 0 0
+/wp-content/uploads/2013/10/dialog-logos2-278x300.png
+0 3 0 200271 0 0
+/wp-content/uploads/2013/10/DialogOrigami_PracAreaOverview-150x150.jpg
+0 2 0 0 0 0
+/wp-content/uploads/2013/11/DG_HmRot2.5-300x133.jpg
+0 4 0 26188 0 0
+/wp-content/themes/boilerplate/images/dlg_logo_bottom.png
+0 203 0 309232 0 0
+/wp-content/uploads/2013/10/topright-public.jpg
+0 2 0 168372 0 0
+/wp-content/uploads/2013/10/topright-board.jpg
+0 3 0 113856 0 0
+/adobe/
+0 6 0 127611 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_Industries_HC-300x69.jpg
+0 3 0 15402 0 0
+/wp-content/uploads/2013/10/logo-ni.jpg
+0 1 0 4091 0 0
+/wp-content/uploads/2013/12/adobe-case-study1-300x133.jpg
+0 4 0 48904 0 0
+/wp-login.php
+0 20 0 60727 0 0
+/wp-includes/css/editor.min.css
+0 37 0 415377 0 0
+/wp-admin/images/resize.gif
+0 22 0 355 0 0
+/wp-content/plugins/seo-ultimate/modules/404s/hit-open.png
+0 1 0 701 0 0
+/wp-admin/users.php
+0 7 0 252096 0 0
+/wp-content/uploads/2013/12/lenovo-case-study-150x150.jpg
+0 5 0 15594 0 0
+/case-study/starwood/
+0 11 0 171401 3 0
+/wp-content/uploads/2013/10/industry-heading-300x133.jpg
+0 4 0 47904 0 0
+/wp-includes/js/tinymce/langs/wp-langs-en.js
+0 29 0 95634 0 0
+/wp-content/uploads/2013/10/topright-dialogoffice.jpg
+0 15 0 515529 0 0
+/wp-content/uploads/2013/10/topright-x.png
+0 2 0 87380 0 0
+/wp-admin/images/arrows-2x.png
+0 2 0 1726 0 0
+/wp-admin/images/arrows.png
+0 46 0 1701 0 0
+/wp-admin/update.php
+0 2 0 46565 0 0
+/wp-content/uploads/2013/10/about-heading-300x133.jpg
+0 4 0 45756 0 0
+/wp-includes/images/uploader-icons-2x.png
+0 2 0 7830 0 0
+/wp-content/uploads/2013/11/DG_HmRot2.5.jpg
+0 106 0 853525 0 0
+/wp-content/plugins/updraftplus/images/dreamobjects_logo-horiz-2013.png
+0 4 0 3181 0 0
+/wp-admin/images/imgedit-icons-2x.png
+0 1 0 14853 0 0
+/wp-content/plugins/backwpup/images/help.png
+0 6 0 426 0 0
+/wp-content/themes/boilerplate/js/orbit/orbit/rotator-black.png
+0 5 0 2199 0 0
+/wp-content/uploads/2013/10/Team-RobA.png
+0 2 0 70828 0 0
+/wp-content/themes/boilerplate/js/orbit/orbit.css
+0 1 0 4028 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_OurStory-300x69.jpg
+0 3 0 13002 0 0
+/wp-content/uploads/2013/10/logo-ingram.png
+0 1 0 10896 0 0
+/wp-content/uploads/2013/10/DialogOrigami_PracAreaOverview.jpg
+0 14 0 197536 0 0
+/wp-content/uploads/2013/10/our-story-heading.jpg
+0 1 0 347500 0 0
+/wp-content/uploads/2013/10/logo-vobi.png
+0 1 0 8497 0 0
+/wp-admin/images/sort.gif
+0 24 0 432 0 0
+/wp-content/uploads/2013/10/topright-equals.png
+0 1 0 28736 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_PracAreas_BrandEngin-300x69.jpg
+0 3 0 13155 0 0
+/wp-content/uploads/2013/10/implementation-TEMP-300x156.gif
+0 2 0 32960 0 0
+/wp-content/uploads/2013/10/industry-heading1-300x133.jpg
+0 4 0 47616 0 0
+/wp-admin/options-general.php
+0 8 0 595127 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_PracAreas_Channel-300x69.jpg
+0 3 0 14256 0 0
+/wp-content/themes/boilerplate/fonts/helveticaneueltstd-thcn-webfont.eot
+0 15 0 88416 0 0
+/wp-admin/images/press-this.png
+0 1 0 417 0 0
+/wp-content/uploads/2013/10/logo-hp.jpg
+0 1 0 5141 0 0
+/industries/retail/
+0 2 0 30903 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_Industries_Retail-300x69.jpg
+0 3 0 17196 0 0
+/wp-content/uploads/2013/10/prac-areas-heading1-150x150.jpg
+0 4 0 6332 0 0
+/wp-content/plugins/backwpup/images/erroreven.png
+0 1 0 17818 0 0
+/wp-content/plugins/advanced-custom-fields/css/input.css
+0 27 0 181671 0 0
+/wp-content/themes/boilerplate/images/footer_bg.jpg
+0 221 0 1411332 0 0
+/wp-content/plugins/ml-slider/assets/metaslider/admin.js
+0 3 0 24699 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_Contact-300x69.jpg
+0 3 0 14226 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_PracAreas_Channel.jpg
+0 9 0 62490 0 0
+/wp-includes/js/tinymce/themes/advanced/img/icons.gif
+0 3 0 23964 0 0
+/wp-content/plugins/advanced-custom-fields/images/sprite.png
+0 38 0 36516 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_Industries_HC-150x150.jpg
+0 2 0 0 0 0
+/wp-content/themes/boilerplate/js/navbar.js
+0 227 0 133210 0 0
+/wp-admin/images/media-button-2x.png
+0 2 0 1700 0 0
+/wp-content/uploads/2013/10/logo-hunter.png
+0 2 0 21442 0 0
+/wp-admin/load-styles.php
+0 196 0 4723426 0 0
+/wp-content/uploads/2013/10/channel-TEMP-300x198.png
+0 2 0 111872 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_Industries_PubSec-300x69.jpg
+0 3 0 16455 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_Industries_SMB.jpg
+0 4 0 78144 0 0
+/wp-admin/images/icons32.png
+0 43 0 90923 0 0
+/wp-content/uploads/2013/11/DG_TertiaryPgBanner_FinServ_F-300x69.jpg
+0 3 0 5641 0 0
+/wp-content/uploads/2013/10/our-story-heading1-150x150.jpg
+0 7 0 20421 0 0
+/wp-admin/revision.php
+0 5 0 185543 0 0
+/case-study/adobe/
+0 8 0 130772 3 0
+/wp-content/uploads/2013/10/DialogOrigami_OurStoryOverview.jpg
+0 2 0 92112 0 0
+/wp-content/plugins/advanced-custom-fields/css/field-group.css
+0 5 0 44877 0 0
+/wp-content/plugins/backwpup/images/imagesec.png
+0 1 0 15077 0 0
+/wp-content/uploads/2013/10/storybg2-150x150.png
+0 8 0 1407 0 0
+/wp-includes/js/tinymce/themes/advanced/skins/default/img/menu_check.gif
+0 2 0 70 0 0
+/wp-content/plugins/advanced-custom-fields/core/fields/date_picker/jquery.ui.datepicker.js
+0 30 0 530740 0 0
+/wp-content/plugins/advanced-custom-fields/images/arrows.png
+0 11 0 486 0 0
+/wp-content/uploads/2013/10/logo-schwab.png
+0 1 0 14107 0 0
+/wp-content/uploads/2013/10/3.jpg
+0 106 0 1718333 0 0
+/wp-content/uploads/2013/10/Dialog-Engagement-Process-v2-300x183.png
+0 3 0 160572 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_OurStory-150x150.jpg
+0 2 0 0 0 0
+/wp-content/uploads/2013/12/adobe-case-study2-150x150.jpg
+0 8 0 13216 0 0
+/wp-admin/images/wpspin_light.gif
+0 43 0 17544 0 0
+/2013/10/10/
+0 1 0 14026 0 0
+/wp-content/plugins/updraftplus/includes/images/ui-icons_ef8c08_256x240.png
+0 1 0 4369 0 0
+/practice-areas/insights-analysis/
+0 30 0 527350 5 1
+/wp-content/uploads/2013/10/logo-saleamp.png
+0 2 0 18098 0 0
+/wp-content/plugins/seo-ultimate/plugin/global.css
+0 70 0 39640 0 0
+/wp-content/plugins/seo-ultimate/modules/modules.css
+0 1 0 3675 0 0
+/wp-content/plugins/seo-ultimate/plugin/images/icon.png
+0 48 0 15291 0 0
+/wp-content/uploads/2013/10/prac-areas-heading1.jpg
+0 43 0 4745600 0 0
+/wp-content/uploads/2013/10/practice-areas2-300x140.png
+0 2 0 92362 0 0
+/wp-content/uploads/2013/10/topright-retail.jpg
+0 2 0 189520 0 0
+/wp-content/plugins/seo-ultimate/modules/modules/modules.js
+0 1 0 274 0 0
+/wp-admin/images/wpspin_light-2x.gif
+0 16 0 54582 0 0
+/wp-content/uploads/2013/10/about-heading1.jpg
+0 32 0 6167617 0 0
+/wp-admin/images/bubble_bg.gif
+0 15 0 2370 0 0
+/industries/healthcare/
+0 4 0 86507 1 1
+/practice-areas/growth-strategy/
+0 8 0 129461 0 3
+/wp-content/uploads/2013/10/DialogOrigami_IndusOverview-266x198.jpg
+0 1 0 7807 0 0
+/wp-content/uploads/2013/10/logo-apple.jpg
+0 1 0 1816 0 0
+/wp-content/uploads/2013/10/partner-TEMP-300x164.gif
+0 2 0 24470 0 0
+/industries/education-hied/
+0 5 0 81156 0 1
+/wp-content/uploads/2013/12/starwood-case-study-150x150.jpg
+0 5 0 15302 0 0
+/wp-content/uploads/2013/10/topright-concept.jpg
+0 2 0 112432 0 0
+/wp-content/plugins/seo-ultimate/plugin/images/wp-ultimate.gif
+0 1 0 6158 0 0
+/wp-content/uploads/2013/10/industry-heading.jpg
+0 20 0 2533780 0 0
+/wp-includes/images/toggle-arrow.png
+0 1 0 333 0 0
+/wp-content/uploads/2013/10/3-300x133.jpg
+0 3 0 25410 0 0
+/wp-content/uploads/2013/10/2.jpg
+0 106 0 1224749 0 0
+/wp-admin/images/arrows-pr.png
+0 4 0 1383 0 0
+/wp-content/uploads/2013/12/lenovo-case-study.jpg
+0 9 0 901180 0 0
+/wp-content/uploads/2013/10/DialogOrigami_IndusOverview.jpg
+0 6 0 166052 0 0
+/wp-admin/post.php
+0 120 0 15772058 0 0
+/wp-includes/images/admin-bar-sprite.png
+0 129 0 71630 0 0
+/wp-admin/admin.php
+0 19 0 1081732 0 0
+/wp-admin/images/menu-shadow.png
+0 48 0 801 0 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+0 59 0 121904 0 0
+/wp-admin/images/bubble_bg-2x.gif
+0 1 0 507 0 0
+/wp-content/plugins/backwpup/images/imagexml.png
+0 1 0 6616 0 0
+/wp-admin/images/stars.png
+0 1 0 924 0 0
+/wp-content/uploads/2013/10/topright-board2.jpg
+0 2 0 102346 0 0
+/practice-areas/purpose-and-performance/
+0 13 0 204010 1 1
+/about/
+0 46 0 746967 4 3
+/wp-content/plugins/updraftplus/includes/images/ui-bg_gloss-wave_35_f6a828_500x100.png
+0 1 0 3762 0 0
+/wp-content/plugins/ml-slider/assets/colorbox/colorbox.css
+0 3 0 14340 0 0
+/wp-content/uploads/2013/10/our-story-heading-300x146.jpg
+0 4 0 58152 0 0
+/wp-includes/images/wpspin.gif
+0 11 0 4386 0 0
+/wp-admin/images/menu.png
+0 46 0 64155 0 0
+/wp-content/uploads/2013/10/Digital-areas-284x300.png
+0 2 0 128618 0 0
+/wp-content/plugins/ml-slider/assets/colorbox/jquery.colorbox-min.js
+0 3 0 83511 0 0
+/wp-content/uploads/2013/10/Dialog-site_our-story-graphic_revised_WEB-58x300.png
+0 3 0 42399 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_AboutUs_OurTeam1-300x69.jpg
+0 3 0 14487 0 0
+/wp-content/themes/boilerplate/editor-style.css
+0 11 0 25018 0 0
+/wp-content/uploads/2013/12/adobe-case-study-150x150.jpg
+0 2 0 6631 0 0
+/wp-content/uploads/2013/10/1.jpg
+0 105 0 793698 0 0
+/wp-includes/images/wpspin-2x.gif
+0 5 0 45485 0 0
+/wp-content/plugins/updraftplus/includes/images/ui-bg_diagonals-thick_20_666666_40x40.png
+0 1 0 251 0 0
+/wp-admin/edit.php
+0 44 0 3356052 0 0
+/wp-admin/images/menu-2x.png
+0 2 0 60648 0 0
+/wp-content/uploads/2013/10/logo-remedy.png
+0 2 0 11034 0 0
+/wp-content/plugins/advanced-custom-fields/core/fields/date_picker/style.date_picker.css
+0 27 0 190449 0 0
+/wp-content/themes/boilerplate/fonts/helveticaneueltstd-ultlt-webfont.woff
+0 44 0 797135 0 0
+/wp-content/themes/boilerplate/images/story/bg3.jpg
+0 83 0 52080703 0 0
+/wp-admin/tools.php
+0 1 0 27438 0 0
+/wp-content/uploads/2013/10/slide2-295x300.jpg
+0 6 0 31310 0 0
+/industries/financial-services/
+0 21 0 386549 2 1
+/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/window.css
+0 27 0 48013 0 0
+/wp-content/plugins/backwpup/images/odd.png
+0 1 0 257807 0 0
+/wp-content/uploads/2013/10/topright-meetingcoffee-150x150.jpg
+0 3 0 15140 0 0
+/wp-content/uploads/2013/10/stock-man-working.jpg
+0 1 0 15143 0 0
+/wp-content/plugins/backwpup/css/general.css
+0 9 0 4237 0 0
+/wp-content/uploads/2013/10/slide1-263x300.jpg
+0 9 0 28320 0 0
+/wp-content/uploads/2013/10/DG_TertiaryPgBanner_Industries_HC.jpg
+0 14 0 44574 0 0
+/wp-content/uploads/2013/10/DialogOrigami_AboutOverview.jpg
+0 7 0 216070 0 0
+/wp-content/uploads/2013/10/Purp-Strat-Exe1-300x137.png
+0 3 0 92112 0 0
+/wp-content/uploads/2013/10/prac-areas-heading-300x133.jpg
+0 4 0 44840 0 0
+/wp-admin/images/wordpress-logo-2x.png
+0 2 0 9734 0 0
+/category/uncategorized/
+0 1 0 14205 1 0
+/wp-content/uploads/2013/10/topright-s.png
+0 13 0 400624 0 0
+/wp-content/plugins/advanced-custom-fields/images/wpspin_light.gif
+0 10 0 4386 0 0
+/wp-content/plugins/backwpup/js/general.js
+0 9 0 136 0 0
+/wp-content/plugins/backwpup/images/backwpupbanner-pro.png
+0 2 0 53090 0 0
+/wp-content/plugins/advanced-custom-fields/js/input.min.js
+0 30 0 236866 0 0
+/author/admin/
+0 1 0 14511 0 1
+/wp-content/uploads/2013/12/adobe-case-study1-150x150.jpg
+0 3 0 6608 0 0
+/wp-content/plugins/updraftplus/includes/images/ui-bg_glass_100_f6f6f6_1x400.png
+0 1 0 104 0 0
+/wp-content/uploads/2013/10/topright-numbers.png
+0 2 0 76736 0 0
+/wp-admin/images/sort-2x.gif
+0 1 0 97 0 0
+/wp-content/themes/boilerplate/fonts/helveticaneueltstd-ltcn-webfont.woff
+0 31 0 397940 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ip-64-134-157-226.public.wayport.net
+0 25 18 281920 1 1386617417
+/about/our-team/
+209.216.198.56
+0 8 1 17387 1 1387201261
+/
+west-2b-pat-1.oit.duke.edu
+0 41 19 6159264 1 1386689466
+/about/
+162-222-73-155.saucelabs.net
+0 25 23 700834 2 1386955691
+/wp-content/plugins/wp-minify/min/
+204.68.119.214
+0 21 5 105507 1 1386888232
+/wp-content/plugins/wp-minify/min/
+west-8-pat-1.oit.duke.edu
+0 12 2 20407 1 1386333409
+/wp-content/plugins/wp-minify/min/
+cpe-24-55-19-160.austin.res.rr.com
+0 647 586 12648051 4 1387114310
+/wp-content/plugins/wp-minify/min/
+204.68.119.234
+0 13 1 17294 1 1387197225
+/wp-content/plugins/wp-minify/min/
+c-67-186-6-221.hsd1.pa.comcast.net
+0 789 451 17522486 6 1387244089
+/wp-content/plugins/wp-minify/min/
+162-222-73-148.saucelabs.net
+0 42 38 3756093 2 1386955775
+/our-story/
+162-222-73-152.saucelabs.net
+0 25 22 5372401 1 1386939265
+/wp-content/plugins/wp-minify/min/
+west-7c-pat-1.oit.duke.edu
+0 154 29 1221981 2 1386163595
+/wp-content/plugins/wp-minify/min/
+ec2-107-20-149-138.compute-1.amazonaws.com
+0 12 9 112530 1 1386186789
+/industries/
+crawl-66-249-75-236.googlebot.com
+0 25 25 252220 10 1387504859
+/2013/10/10/
+cpe-70-113-3-237.austin.res.rr.com
+0 311 112 2794715 8 1387319930
+/industries/financial-services/
+crawl-66-249-76-138.googlebot.com
+0 5 5 29866 1 1385871184
+/wp-content/plugins/wp-minify/min/
+c-71-199-96-115.hsd1.pa.comcast.net
+0 46 46 11994317 1 1386869536
+/wp-content/plugins/wp-minify/min/
+crawl-66-249-74-66.googlebot.com
+0 2 2 6024 1 1386185985
+/wp-content/plugins/wp-minify/min/
+162-222-73-149.saucelabs.net
+0 43 40 6469065 2 1386955774
+/our-story/
+west-7b-pat-1.oit.duke.edu
+0 947 764 6050590 1 1386010465
+/
+162-222-73-153.saucelabs.net
+0 26 25 945298 2 1386955675
+/
+24-241-38-131.static.hlrg.nc.charter.com
+0 44 20 880553 1 1387582436
+/wp-content/plugins/wp-minify/min/
+cpe-72-179-4-97.austin.res.rr.com
+0 17 16 542728 1 1386591687
+/case-study/starwood/
+west-4a-pat-1.oit.duke.edu
+0 636 292 10492761 2 1386606068
+/our-story/
+east-1c-pat-1.oit.duke.edu
+0 985 356 14077254 2 1386352437
+/wp-admin/
+162-222-73-150.saucelabs.net
+0 30 30 6954882 1 1386955780
+/industries/financial-services/
+client-199.115.188.165.tlo.skybeamtx.com
+0 20 20 508151 1 1386101932
+/wp-content/plugins/wp-minify/min/
+24-155-108-245.dyn.grandenetworks.net
+0 2415 1894 114354140 8 1387202844
+/wp-content/plugins/wp-minify/min/
+akrmspsrvz4ts115-dmz.mycingular.net
+0 1 1 20168 1 1386354174
+/
+rrcs-24-173-110-6.sw.biz.rr.com
+0 9349 7790 98396920 34 1387456394
+/wp-content/plugins/wp-minify/min/
+crawl-66-249-66-236.googlebot.com
+0 4 4 20591 2 1386306609
+/wp-content/plugins/wp-minify/min/
+162-222-73-154.saucelabs.net
+0 30 23 3614599 1 1386939289
+/blog/
+ec2-50-17-250-128.compute-1.amazonaws.com
+0 15 14 265030 1 1386186764
+/wp-content/plugins/wp-minify/min/
+cpe-70-113-120-136.austin.res.rr.com
+0 480 108 8749453 12 1386677810
+/
+cpe-70-112-174-115.austin.res.rr.com
+0 1498 788 30276868 2 1385905705
+/
+162-222-73-151.saucelabs.net
+0 27 19 4024435 1 1386939338
+/
+cpe-24-27-23-112.austin.res.rr.com
+0 110 79 13596621 1 1386940422
+/our-story/
+173.83.104.2
+0 378 378 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+cpe-24-55-19-160.austin.res.rr.com
+0 46 46 27554 0 0
+-
+173.83.104.2
+0 4 4 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://development.dialoggroup.com/wp-admin/plugins.php
+1 849
+http://development.dialoggroup.com/practice-areas/growth-strategy/
+1 22
+http://development.dialoggroup.com/wp-login.php
+1 59
+http://development.dialoggroup.com/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/window.css
+1 3
+http://development.dialoggroup.com/adobe/
+1 39
+- (Direct Request)
+0 870
+http://development.dialoggroup.com/industries/retail/
+1 8
+http://development.dialoggroup.com/wp-admin/load-styles.php
+1 16
+http://development.dialoggroup.com/wp-content/plugins/seo-ultimate/plugin/global.css
+1 2
+http://development.dialoggroup.com/contact/
+1 35
+http://development.dialoggroup.com/wp-admin/plugin-editor.php
+1 72
+http://development.dialoggroup.com/wp-admin/admin.php
+1 191
+http://development.dialoggroup.com/industries/financial-services/
+1 32
+http://development.dialoggroup.com/wp-admin/revision.php
+1 101
+http://development.dialoggroup.com/wp-admin/tools.php
+1 1
+http://development.dialoggroup.com/about/
+1 158
+http://development.dialoggroup.com/our-story/
+1 1369
+http://development.dialoggroup.com/practice-areas/insights-analysis/
+1 157
+http://development.dialoggroup.com/wp-admin/options-general.php
+1 704
+http://development.dialoggroup.com/practice-areas/purpose-and-performance/
+1 51
+http://development.dialoggroup.com/about/dialog-faculty/dialog-faculty-listing/
+1 15
+http://development.dialoggroup.com/
+1 1693
+http://development.dialoggroup.com/industries/healthcare/
+1 34
+http://development.dialoggroup.com/wp-admin/theme-editor.php
+1 105
+http://development.dialoggroup.com/wp-admin/
+1 334
+http://development.dialoggroup.com/wp-content/uploads/2013/10/topright-meetingcoffee.jpg
+1 1
+http://development.dialoggroup.com/practice-areas/purpose-and-performance
+1 3
+http://development.dialoggroup.com/industries/small-and-medium-business/
+1 24
+http://development.dialoggroup.com/case-study/lenovo/
+1 77
+http://development.dialoggroup.com/case-study/adobe/
+1 75
+http://development.dialoggroup.com/adobe-2/
+1 20
+http://development.dialoggroup.com/wp-admin/plugin-install.php
+1 9
+http://development.dialoggroup.com/wp-admin/css/colors-fresh.min.css
+1 11
+http://development.dialoggroup.com/about/our-partners/
+1 51
+http://development.dialoggroup.com/wp-admin/post-new.php
+1 72
+http://development.dialoggroup.com/wp-admin/user-new.php
+1 16
+http://development.dialoggroup.com/wp-admin/post.php
+1 5676
+http://development.dialoggroup.com/practice-areas/brand-engineering/
+1 9
+http://development.dialoggroup.com/case-study/starwood/
+1 109
+http://development.dialoggroup.com/industries/public-sector/
+1 30
+http://development.dialoggroup.com/about/dialog-faculty/
+1 272
+http://development.dialoggroup.com/wp-admin/edit.php
+1 2252
+http://development.dialoggroup.com/wp-admin/index.php
+1 2105
+http://my.dudamobile.com/safeProxy
+0 13
+http://development.dialoggroup.com/practice-areas/channel-effectiveness/
+1 36
+http://development.dialoggroup.com/wp-admin/update.php
+1 9
+http://development.dialoggroup.com/industries/education-hied/
+1 16
+http://development.dialoggroup.com/wp-content/plugins/wp-minify/min/
+1 293
+http://development.dialoggroup.com/wp-content/plugins/advanced-custom-fields/css/global.css
+1 3
+http://development.dialoggroup.com/about/our-team/
+1 134
+http://development.dialoggroup.com/industries/
+1 329
+http://development.dialoggroup.com/case-study/
+1 12
+http://development.dialoggroup.com/wp-includes/css/editor.min.css
+1 9
+http://development.dialoggroup.com/practice-areas/
+1 385
+http://development.dialoggroup.com/practice-areas/digital-experiences/
+1 17
+http://development.dialoggroup.com/faculty
+1 206
+http://development.dialoggroup.com/wp-admin/user-edit.php
+1 5
+http://development.dialoggroup.com/wp-includes/js/tinymce/themes/advanced/source_editor.htm
+1 21
+http://development.dialoggroup.com/wp-admin/users.php
+1 38
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 50
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 93
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0; MALCJS)
+0 1
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.43 Safari/537.31
+0 21
+WordPress/3.7.1; http://development.dialoggroup.com
+0 374
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
+0 3
+Wget/1.13.4 (linux-gnu)
+0 2
+Opera/9.80 (Windows NT 5.2; U; en) Presto/2.10.229 Version/11.64
+0 25
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.34 (KHTML, like Gecko) Qt/4.8.1 Safari/534.34
+0 13
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+0 5635
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 3586
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 203
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9) AppleWebKit/537.71 (KHTML, like Gecko) Version/7.0 Safari/537.71
+0 819
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 929
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 36
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MALCJS)
+0 111
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7
+0 2
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 111
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a S
+0 17
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 277
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 2410
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0
+0 39
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727)
+0 81
+Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0
+0 207
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.43 Safari/537.31
+0 34
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 1200
+BackWPup/3.0.13; WordPress/3.7.1; http://development.dialoggroup.com
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 48
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 7
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; BOIE9;ENUSMSNIP)
+0 201
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; MALCJS; rv:11.0) like Gecko
+0 20
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 703
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 1995
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
