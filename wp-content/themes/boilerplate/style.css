@@ -1123,7 +1123,7 @@ html, body {
   min-height: 100%;
   height: auto !important;
   height: 100%;
-  margin: -16px auto -165px; /* the bottom margin is the negative value of the footer's height */
+  margin: 0px auto -165px; /* the bottom margin is the negative value of the footer's height */
 }
 .push {
   height: 165px;
