@@ -14,18 +14,10 @@
 
 get_header(); ?>
 <div id="internal-wrap">
-  <div id="large-internal-header-wrap">
-    <div id="large-internal-header" class="centered" style="background:url(<?php the_field('page_heading_image'); ?>); background-repeat: no-repeat; background-position:right;">
-      <header id="large-internal-header-text">
-        <h1 style="color: <?php the_field('header_text_color');?>;"><?php the_field('page_heading_text'); ?></h1>
-        <p style="color: <?php the_field('header_text_color');?>;"><?php the_field('page_subheading_text'); ?></p>
-        <?php if($label = get_field('header_cta_label', $id)){ ?>
-         <a href="<?php the_field('header_cta_link'); ?>"><span class="lighter-grey-button"><?php echo $label; ?></span></a>
-        <?php } ?>
-      </header>
-    </div>
-  </div>
-  
+
+  <!-- Internal Header -->
+  <?php include 'internal_header.php';?>
+
   <?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
   <div id="internal-lower-wrap">
     <div id="internal-lower" class="centered">
