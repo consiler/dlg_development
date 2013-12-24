@@ -42,13 +42,20 @@
 	wp_footer();
 ?>
 <script>
+    var sCount = 0;
     jQuery(document).foundation({
       orbit: {
         animation: 'fade',
-        timer_speed: 1000,
-        animation_speed: 500,
+        timer_speed: 5000,
+        animation_speed: 600,
         slide_number: false,
-        bullets: false
+        bullets: false,
+        after_slide_change: function() {
+          sCount++;
+          if(sCount > 5) {
+            $(this).trigger("orbit.stop");
+          }
+        }
       }
     });
   </script>
