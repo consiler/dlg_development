@@ -15,16 +15,17 @@
 		<meta charset="<?php bloginfo( 'charset' ); ?>" />
 		<title>Dialog Group</title>
     <!-- #cat app-min.js -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="<?php bloginfo('template_url'); ?>/js/orbit/jquery.orbit.js" type="text/javascript"></script>
-    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/navbar.js"></script>
+    <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>-->
+    <!--<script src="<?php bloginfo('template_url'); ?>/js/orbit/jquery.orbit.js" type="text/javascript"></script>-->
     <!-- endcat -->
 		<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
-    <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/js/orbit/orbit.css">
+    <!-- <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/js/orbit/orbit.css"> -->
+    <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/foundation/css/foundation.css">
 <?php
 		//If you delete this line, the wordpress admin menu will not appear at the top of the page
 		wp_head();
 ?>
+    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/navbar.js"></script>
 	</head>
 	<body <?php body_class(); ?>>
 <div id="wrapper">
@@ -36,8 +37,8 @@
     </a>
     <?php
       wp_nav_menu(array(
-        'theme_location'  => 'primary',
-        'menu'            => 'Top Navigation'
+        'theme_location' => 'primary',
+        'menu' => 'Top Navigation'
         )
       );
     ?>

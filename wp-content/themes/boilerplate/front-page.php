@@ -8,30 +8,13 @@
  */
 
 get_header(); ?>
-
 <div id="fp-slideshow-wrap">
-  <div id="fp-slideshow-container" class="centered">
-    <script type="text/javascript">
-    var count = 1;
-       $(window).load(function() {
-           $('#featured').orbit({
-            animation: 'fade',
-            bullets: false,
-            directionalNav: false,
-            advanceSpeed: 2000,
-            afterSlideChange: function(){
-              count++;
-              if(count==6){
-                this.trigger("orbit.stop");
-              }
-            }
-           });
-       });
-    </script>
-    <div id="featured">
+  <div class="centered">
+  <?php //id="fp-slideshow-container" ?>
+  <div class="example-orbit" data-orbit>
     <?php
       $post_type = 'frontpage_slides';
-      $args=array(
+      $args = array(
         'post_type' => $post_type,
         'posts_per_page' => -1,
         'orderby' => 'title',
@@ -47,7 +30,8 @@ get_header(); ?>
         while ($my_query->have_posts()) : $my_query->the_post(); $id = get_the_ID();
         if(get_field('test_group', $id) == $testgroup){
         ?>
-          <div style="background-image: url(<?php the_field('slide_image', $id); ?>);">
+          <li>
+            <img src="<?php the_field('slide_image', $id); ?>" />
             <div class="carousel-headline-wrap">
               <h2 class="carousel-headline"><?php the_field('slide_title', $id); ?></h2>
               <p class="carousel-subheading"><?php the_field('slide_description', $id); ?></p>
@@ -55,14 +39,24 @@ get_header(); ?>
                 <a href="<?php the_field('slide_cta_link'); ?>"><span class="lighter-grey-button"><?php echo $label; ?></span></a>
               <?php } ?>
             </div>
-          </div>
+          </li>
+          <?php
+          /*<div style="background-image: url(<?php the_field('slide_image', $id); ?>);">
+            <div class="carousel-headline-wrap">
+              <h2 class="carousel-headline"><?php the_field('slide_title', $id); ?></h2>
+              <p class="carousel-subheading"><?php the_field('slide_description', $id); ?></p>
+              <?php if($label = get_field('slide_cta_label', $id)){ ?>
+                <a href="<?php the_field('slide_cta_link'); ?>"><span class="lighter-grey-button"><?php echo $label; ?></span></a>
+              <?php } ?>
+            </div>
+          </div>*/?>
           <?php
         }
         endwhile;
       }
       wp_reset_query();
     ?>
-    </div>
+  </div>
   </div>
 </div>
 <div id="fp-testimonials-wrap">

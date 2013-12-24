@@ -1,4 +1,5 @@
 //Navbar code
+var $ = jQuery.noConflict();
 $(document).ready(function(){
   var slideMenu = $('#nav-menu-slide');
 

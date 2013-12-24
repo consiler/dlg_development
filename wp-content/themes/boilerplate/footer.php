@@ -32,13 +32,27 @@
         </div>
       </div>
     </div>
+        <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/foundation/js/foundation/foundation.js"></script>
+    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/foundation/js/foundation/foundation.orbit.js"></script>
 <?php
 	/* Always have wp_footer() just before the closing </body>
 	 * tag of your theme, or you will break many plugins, which
 	 * generally use this hook to reference JavaScript files.
 	 */
 	wp_footer();
-?><script>
+?>
+<script>
+    jQuery(document).foundation({
+      orbit: {
+        animation: 'fade',
+        timer_speed: 1000,
+        animation_speed: 500,
+        slide_number: false,
+        bullets: false
+      }
+    });
+  </script>
+<script>
   //GA
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-44776256-1']);
