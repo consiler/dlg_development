@@ -1462,7 +1462,6 @@ div.timer {
 #large-internal-header-text {
     float: left;
     margin-top: 65px;
-    width: 570px;
     padding-left: 130px;
     padding-top: 40px;
 }
@@ -1470,7 +1469,6 @@ div.timer {
     font-family: hvnStd_UltLt;
     /*color: #3d3d3d;*/
     font-size: 36pt;
-    width: 400px;
 }
 #large-internal-header-text > p {
     font-family: hvnStd_Thin;
