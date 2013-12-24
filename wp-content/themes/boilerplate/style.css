@@ -1796,4 +1796,10 @@ blockquote {
 #story-block #approach:after {content: url(/wp-content/themes/boilerplate/images/story/slide2.jpg);}
 #story-block #do:after {content: url(/wp-content/themes/boilerplate/images/story/slide3.jpg);}
 
+<<<<<<< HEAD
 /*Case Study Page Styles*/
+=======
+#numslidesdiv {
+    display: none;
+}
+>>>>>>> 3f4757feb34adb9e546e2a87781c90ba9779c9a5
