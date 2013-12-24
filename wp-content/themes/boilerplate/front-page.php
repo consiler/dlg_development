@@ -11,7 +11,13 @@ get_header(); ?>
 <div id="fp-slideshow-wrap">
   <div class="centered">
   <?php //id="fp-slideshow-container" ?>
-  <div class="example-orbit" data-orbit>
+  <div class="example-orbit" data-orbit data-options="animation:slide;
+                  animation_speed:1000;
+                  pause_on_hover:false;
+                  animation_speed:500;
+                  navigation_arrows:false;
+                  bullets:false;
+                  next_on_click:false;">
     <?php
       $post_type = 'frontpage_slides';
       $args = array(
