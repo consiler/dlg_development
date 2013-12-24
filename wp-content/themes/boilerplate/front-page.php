@@ -25,10 +25,13 @@ get_header(); ?>
       $my_query = null;
       $my_query = new WP_Query($args);
       $testgroup = "A";
+      $numSlides = 0;
       if(isset($_GET['bgroup'])){ $testgroup = "B"; }
       if( $my_query->have_posts() ) {
-        while ($my_query->have_posts()) : $my_query->the_post(); $id = get_the_ID();
-        if(get_field('test_group', $id) == $testgroup){
+        while ($my_query->have_posts()) : $my_query->the_post();
+        $id = get_the_ID();
+        if(get_field('test_group', $id) == $testgroup) {
+          $numSlides++;
         ?>
           <li>
             <img src="<?php the_field('slide_image', $id); ?>" />
@@ -56,6 +59,7 @@ get_header(); ?>
       }
       wp_reset_query();
     ?>
+    <div id="numslidesdiv"><?php echo $numSlides; ?></div>
   </div>
   </div>
 </div>

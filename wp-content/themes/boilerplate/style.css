@@ -1787,3 +1787,7 @@ blockquote {
 #story-block #vision:after {content: url(/wp-content/themes/boilerplate/images/story/slide1.jpg);}
 #story-block #approach:after {content: url(/wp-content/themes/boilerplate/images/story/slide2.jpg);}
 #story-block #do:after {content: url(/wp-content/themes/boilerplate/images/story/slide3.jpg);}
+
+#numslidesdiv {
+    display: none;
+}

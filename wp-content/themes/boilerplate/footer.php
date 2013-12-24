@@ -11,7 +11,6 @@
  */
 ?>
 		</section><!-- #main -->
-        
 <div class="push"></div>
 </div><?php //end #wrapper : makes sticky footer work ?>
     <div class="footer-wrap">
@@ -27,7 +26,7 @@
         </div>
         <div class="copyright">
           <hr></hr>
-          <p>Copyright &copy 2013 Dialog Group <br> All rights reserved</p>
+          <p>Copyright &copy; 2013 Dialog Group <br> All rights reserved</p>
           <!-- <a href="">Legal & Privacy</a> -->
         </div>
       </div>
@@ -41,8 +40,10 @@
 	 */
 	wp_footer();
 ?>
+<?php if(is_front_page()) { ?>
 <script>
-    var sCount = 0;
+    var sCount = 1;
+    var slidesNum = $('#numslidesdiv').html();
     jQuery(document).foundation({
       orbit: {
         animation: 'fade',
@@ -52,13 +53,14 @@
         bullets: false,
         after_slide_change: function() {
           sCount++;
-          if(sCount > 5) {
-            $(this).trigger("orbit.stop");
+          if(sCount >= slidesNum) {
+            $(".orbit-timer").click();
           }
         }
       }
     });
-  </script>
+</script>
+<?php } ?>
 <script>
   //GA
   var _gaq = _gaq || [];
