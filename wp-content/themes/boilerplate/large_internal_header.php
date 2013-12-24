@@ -1,6 +1,6 @@
-  <div id="internal-header-wrap">
-    <div id="internal-header" class="centered" style="background:url(<?php the_field('page_heading_image'); ?>); background-repeat: no-repeat; background-position:right;">
-      <header id="internal-header-text">
+    <div id="large-internal-header-wrap">
+    <div id="large-internal-header" class="centered" style="background:url(<?php the_field('page_heading_image'); ?>); background-repeat: no-repeat; background-position:right;">
+      <header id="large-internal-header-text" style="width:<?php the_field('heading_text_width'); ?>px;">
         <h1 style="color: <?php the_field('heading_text_color');?>;"><?php the_field('page_heading_text'); ?></h1>
         <p style="color: <?php the_field('subheading_text_color');?>;"><?php the_field('page_subheading_text'); ?></p>
         <?php if(get_field('include_heading_call_to_action')){ ?>
@@ -9,3 +9,4 @@
       </header>
     </div>
   </div>
+
