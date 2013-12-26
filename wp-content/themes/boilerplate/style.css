@@ -1576,7 +1576,7 @@ div.timer {
 
 #internal-main {
     float: left;
-    width: 762px;
+    width: 741px; /* used to be 762 */
     overflow: hidden;
 }
 #internal-main-header {
@@ -1644,19 +1644,11 @@ div.timer {
 /* Internal Sidebar */
 #internal-sidebar {
   float: right;
-  width: 262px;
+  width: 283px; /*used to be 262 */
   height: 100%;
 }
-#internal-sidebar-detour-link {
-  height: 146px;
-  padding: 0 25px;
-  padding-top: 35px;
-  background-image: url(images/sidebar-detour-green.gif);
-}
-#internal-sidebar-detour-link > h4 {
-  color: #5a5b5b;
-  font-size: 20pt;
-  margin-bottom: 15px;
+#internal-sidebar-promo-tile img, #internal-sidebar-promo-tile a {
+  display: block;
 }
 
 /* End Internal Lower */

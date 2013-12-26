@@ -44,8 +44,16 @@ get_header(); ?>
       </div>
       <?php if(get_field('has_sidebar')){ ?>
       <aside id="internal-sidebar">
-        <?php if(get_field('right_sidebar_promo_tile')){ ?>
-        
+        <?php
+        $rspt = get_field('right_sidebar_promo_tile');
+        if($rspt){ ?>
+          <div id="internal-sidebar-promo-tile">
+          <a href="<?php the_field('link_url', $rspt->ID); ?>"><img src="
+            <?php
+              the_field('image', $rspt->ID);
+            ?>
+            "></a>
+          </div>
         <?php } ?>
         <?php if(get_field('custom_html')){ ?>
           <div id="internal-sidebar-custom">
