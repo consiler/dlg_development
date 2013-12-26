@@ -1587,6 +1587,7 @@ div.timer {
     width: 552px;
     padding-top: 30px;
     padding-right: 20px;
+    padding-left: 35px;
 }
 #internal-main-content b {
     font-weight: bold;
