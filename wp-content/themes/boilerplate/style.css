@@ -1792,6 +1792,6 @@ blockquote {
     display: none;
 }
 
-.orbit-timer {
-    display: none;
+.orbit-progress {
+    display: none!important;
 }

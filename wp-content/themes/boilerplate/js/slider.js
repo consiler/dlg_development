@@ -1,5 +1,5 @@
 jQuery(document).ready(function() {
-  $(".example-orbit").on("ready.fndtn.orbit", function(event) {
+  $("#fp-slideshow-container").on("ready.fndtn.orbit", function(event) {
     $(".orbit-prev").hide();
   });
   jQuery(document).foundation({

@@ -11,7 +11,7 @@ get_header(); ?>
 <div id="fp-slideshow-wrap">
   <div class="centered">
   <?php //id="fp-slideshow-container" ?>
-  <div class="example-orbit" data-orbit>
+  <div id="fp-slideshow-container" data-orbit>
     <?php
       $post_type = 'frontpage_slides';
       $args = array(
