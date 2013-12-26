@@ -52,7 +52,6 @@ get_header(); ?>
         <?php if(get_field('custom_html')){ ?>
           <div id="internal-sidebar-custom">
             <?php the_field('custom_html'); ?>
-            <img></img>
           </div>
         <?php } ?>
       </aside>
