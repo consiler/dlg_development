@@ -17,35 +17,57 @@ get_header(); ?>
   
   <!-- Internal Header -->
   <?php include 'large_internal_header.php';?>
-  
+
+  <?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
   <div id="internal-lower-wrap">
     <div id="internal-lower" class="centered">
-      <div id="internal-main">
-
-        <!-- Three Columns -->
+      <!-- Three Columns -->
         <?php if (get_field('include_three_column')){ ?>
         <div>Include three cols here</div>
         <?php } ?>
-
-        <article id="internal-main-content" <?php if(!get_field('has_sidebar')){ ?> class="internal-main-content-fullwidth"<?php } ?>>
-          <!-- Main Content -->
+      <div id="internal-main"<?php if(!get_field('has_sidebar')){ ?> class="internal-main-fullwidth"<?php } ?>>
+        <nav id="internal-main-nav">
+          <ul>
+            <?php $sidebar = get_field('left_sidebar'); if($sidebar == 'nav') include('template-child-sib-menu.php'); ?>
+            <?php if($sidebar == 'jump'){ ?>
+              <script>
+              $(document).ready(function(){
+                $('#internal-main-content h2').each(function(i,v){
+                  $(v).attr('id', 'jump-heading-'+i);
+                  $('#internal-main-nav > ul').append('<li><a href="#jump-heading-'+i+'">'+$(v).html()+'</a></li>');
+                });
+              });
+              </script>
+            <?php } ?>
+          </ul>
+        </nav>
+        <article id="internal-main-content"
+        <?php if(!get_field('has_sidebar')){ ?> class="internal-main-content-fullwidth"<?php } ?>>
           <?php the_content(get_the_ID()); ?>
         </article>
       </div>
       <?php if(get_field('has_sidebar')){ ?>
       <aside id="internal-sidebar">
-        <div id="fp-testimonials-seemore">
-      <?php
-      $header = get_field('header_1');
-      $copy = get_field('copy_1');
-      ?>
-      <h4><?php echo $header ?></h4>
-      <p><?php echo $copy ?></p>
-    </div>
+        <?php
+        $rspt = get_field('right_sidebar_promo_tile');
+        if($rspt){ ?>
+          <div id="internal-sidebar-promo-tile">
+          <a href="<?php the_field('link_url', $rspt->ID); ?>"><img src="
+            <?php
+              the_field('image', $rspt->ID);
+            ?>
+            "></a>
+          </div>
+        <?php } ?>
+        <?php if(get_field('custom_html')){ ?>
+          <div id="internal-sidebar-custom">
+            <?php the_field('custom_html'); ?>
+          </div>
+        <?php } ?>
       </aside>
       <?php } ?>
     </div>
   </div>
-
+  <?php endwhile; ?>
 </div>
 <?php get_footer(); ?>
