@@ -14,6 +14,9 @@
 	<head>
 		<meta charset="<?php bloginfo( 'charset' ); ?>" />
 		<title>Dialog Group</title>
+    <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/boilerplate.css" />
+    <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/fonts_and_wrapper.css" />
+    <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/topnavigation.css" />
 		<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/foundation/css/foundation.css">
 <?php

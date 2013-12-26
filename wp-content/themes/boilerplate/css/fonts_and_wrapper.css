@@ -1,0 +1,67 @@
+/* Importing Fonts */
+@font-face {
+    font-family: 'hvnStd_UltLt';
+    src: url('fonts/helveticaneueltstd-ultlt-webfont.eot');
+    src: url('fonts/helveticaneueltstd-ultlt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/helveticaneueltstd-ultlt-webfont.woff') format('woff'),
+         url('fonts/helveticaneueltstd-ultlt-webfont.ttf') format('truetype'),
+         url('fonts/helveticaneueltstd-ultlt-webfont.svg#helvetica_neue_lt_st25ultraLt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'hvnStd_Thin';
+    src: url('fonts/helveticaneueltstd-thcn-webfont.eot');
+    src: url('fonts/helveticaneueltstd-thcn-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/helveticaneueltstd-thcn-webfont.woff') format('woff'),
+         url('fonts/helveticaneueltstd-thcn-webfont.ttf') format('truetype'),
+         url('fonts/helveticaneueltstd-thcn-webfont.svg#helvetica_neue_lt_std37ThCn') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'hvnStd_LiteCn';
+    src: url('fonts/helveticaneueltstd-ltcn-webfont.eot');
+    src: url('fonts/helveticaneueltstd-ltcn-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/helveticaneueltstd-ltcn-webfont.woff') format('woff'),
+         url('fonts/helveticaneueltstd-ltcn-webfont.ttf') format('truetype'),
+         url('fonts/helveticaneueltstd-ltcn-webfont.svg#helvetica_neue_lt_std47LtCn') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'hvnStd_Lite';
+    src: url('fonts/helveticaneueltcom-lt-webfont.eot');
+    src: url('fonts/helveticaneueltcom-lt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/helveticaneueltcom-lt-webfont.woff') format('woff'),
+         url('fonts/helveticaneueltcom-lt-webfont.ttf') format('truetype'),
+         url('fonts/helveticaneueltcom-lt-webfont.svg#helvetica_neue_lt_com45_light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html, body {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
+   height: 100%;
+   min-height: 100%;
+}
+#wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0px auto -165px; /* the bottom margin is the negative value of the footer's height */
+}
+.push {
+  height: 165px;
+}
+a {
+    text-decoration: none;
+}
+b, strong {
+  font-weight: bold;
+}
+p {
+    line-height: 1.3em;
+    color: #787878;
+}
