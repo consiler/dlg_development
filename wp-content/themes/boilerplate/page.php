@@ -53,7 +53,6 @@ get_header(); ?>
           <div id="internal-sidebar-custom">
             <?php the_field('custom_html'); ?>
             <img></img>
-            <div>asdfasdf</div>
           </div>
         <?php } ?>
       </aside>
