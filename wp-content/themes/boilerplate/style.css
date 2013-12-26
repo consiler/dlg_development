@@ -1051,8 +1051,8 @@ button {
 }*/
 @font-face {
     font-family: 'hvnStd_UltLt';
-    src: url('fonts/helveticaneueltstd-ultlt-webfont.eot');
-    src: url('fonts/helveticaneueltstd-ultlt-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('fonts/helveticaneueltstd-ultlt-webfont.eot'), 
+         url('fonts/helveticaneueltstd-ultlt-webfont.eot?#iefix') format('embedded-opentype'),
          url('fonts/helveticaneueltstd-ultlt-webfont.woff') format('woff'),
          url('fonts/helveticaneueltstd-ultlt-webfont.ttf') format('truetype'),
          url('fonts/helveticaneueltstd-ultlt-webfont.svg#helvetica_neue_lt_st25ultraLt') format('svg');
@@ -1066,8 +1066,8 @@ button {
 
 @font-face {
     font-family: 'hvnStd_Thin';
-    src: url('fonts/helveticaneueltstd-thcn-webfont.eot');
-    src: url('fonts/helveticaneueltstd-thcn-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('fonts/helveticaneueltstd-thcn-webfont.eot'),
+         url('fonts/helveticaneueltstd-thcn-webfont.eot?#iefix') format('embedded-opentype'),
          url('fonts/helveticaneueltstd-thcn-webfont.woff') format('woff'),
          url('fonts/helveticaneueltstd-thcn-webfont.ttf') format('truetype'),
          url('fonts/helveticaneueltstd-thcn-webfont.svg#helvetica_neue_lt_std37ThCn') format('svg');
@@ -1081,8 +1081,8 @@ button {
 
 @font-face {
     font-family: 'hvnStd_LiteCn';
-    src: url('fonts/helveticaneueltstd-ltcn-webfont.eot');
-    src: url('fonts/helveticaneueltstd-ltcn-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('fonts/helveticaneueltstd-ltcn-webfont.eot'),
+         url('fonts/helveticaneueltstd-ltcn-webfont.eot?#iefix') format('embedded-opentype'),
          url('fonts/helveticaneueltstd-ltcn-webfont.woff') format('woff'),
          url('fonts/helveticaneueltstd-ltcn-webfont.ttf') format('truetype'),
          url('fonts/helveticaneueltstd-ltcn-webfont.svg#helvetica_neue_lt_std47LtCn') format('svg');
@@ -1096,8 +1096,8 @@ button {
 
 @font-face {
     font-family: 'hvnStd_Lite';
-    src: url('fonts/helveticaneueltcom-lt-webfont.eot');
-    src: url('fonts/helveticaneueltcom-lt-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('fonts/helveticaneueltcom-lt-webfont.eot'),
+         url('fonts/helveticaneueltcom-lt-webfont.eot?#iefix') format('embedded-opentype'),
          url('fonts/helveticaneueltcom-lt-webfont.woff') format('woff'),
          url('fonts/helveticaneueltcom-lt-webfont.ttf') format('truetype'),
          url('fonts/helveticaneueltcom-lt-webfont.svg#helvetica_neue_lt_com45_light') format('svg');
