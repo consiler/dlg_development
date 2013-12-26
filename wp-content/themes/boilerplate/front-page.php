@@ -11,13 +11,7 @@ get_header(); ?>
 <div id="fp-slideshow-wrap">
   <div class="centered">
   <?php //id="fp-slideshow-container" ?>
-  <div class="example-orbit" data-orbit data-options="animation:slide;
-                  animation_speed:1000;
-                  pause_on_hover:false;
-                  animation_speed:500;
-                  navigation_arrows:false;
-                  bullets:false;
-                  next_on_click:false;">
+  <div class="example-orbit" data-orbit>
     <?php
       $post_type = 'frontpage_slides';
       $args = array(
@@ -31,13 +25,11 @@ get_header(); ?>
       $my_query = null;
       $my_query = new WP_Query($args);
       $testgroup = "A";
-      $numSlides = 0;
       if(isset($_GET['bgroup'])){ $testgroup = "B"; }
       if( $my_query->have_posts() ) {
         while ($my_query->have_posts()) : $my_query->the_post();
         $id = get_the_ID();
         if(get_field('test_group', $id) == $testgroup) {
-          $numSlides++;
         ?>
           <li>
             <img src="<?php the_field('slide_image', $id); ?>" />
@@ -65,7 +57,6 @@ get_header(); ?>
       }
       wp_reset_query();
     ?>
-    <div id="numslidesdiv"><?php echo $numSlides; ?></div>
   </div>
   </div>
 </div>
@@ -110,5 +101,4 @@ get_header(); ?>
     </div> -->
   </div>
 </div>
-
 <?php get_footer(); ?>

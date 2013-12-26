@@ -41,25 +41,7 @@
 	wp_footer();
 ?>
 <?php if(is_front_page()) { ?>
-<script>
-    var sCount = 1;
-    var slidesNum = $('#numslidesdiv').html();
-    jQuery(document).foundation({
-      orbit: {
-        animation: 'fade',
-        timer_speed: 5000,
-        animation_speed: 600,
-        slide_number: false,
-        bullets: false,
-        after_slide_change: function() {
-          sCount++;
-          if(sCount >= slidesNum) {
-            $(".orbit-timer").click();
-          }
-        }
-      }
-    });
-</script>
+<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/slider.js"></script>
 <?php } ?>
 <script>
   //GA
