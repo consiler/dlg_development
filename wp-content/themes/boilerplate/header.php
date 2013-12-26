@@ -14,12 +14,7 @@
 	<head>
 		<meta charset="<?php bloginfo( 'charset' ); ?>" />
 		<title>Dialog Group</title>
-    <!-- #cat app-min.js -->
-    <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>-->
-    <!--<script src="<?php bloginfo('template_url'); ?>/js/orbit/jquery.orbit.js" type="text/javascript"></script>-->
-    <!-- endcat -->
 		<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
-    <!-- <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/js/orbit/orbit.css"> -->
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/foundation/css/foundation.css">
 <?php
 		//If you delete this line, the wordpress admin menu will not appear at the top of the page

@@ -57,6 +57,7 @@ get_header(); ?>
     </div>
         <?php } ?>
       <div id="internal-main"<?php if(!get_field('has_sidebar')){ ?> class="internal-main-fullwidth"<?php } ?>>
+        <?php if(get_field('include_left_sidebar')){ ?>
         <nav id="internal-main-nav">
           <ul>
             <?php $sidebar = get_field('left_sidebar'); if($sidebar == 'nav') include('template-child-sub-menu.php'); ?>
@@ -72,6 +73,7 @@ get_header(); ?>
             <?php } ?>
           </ul>
         </nav>
+        <?php } ?>
         <article id="internal-main-content"
         <?php if(!get_field('has_sidebar')){ ?> class="internal-main-content-fullwidth"<?php } ?>>
           <?php the_content(get_the_ID()); ?>
