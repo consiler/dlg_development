@@ -643,5 +643,33 @@ function create_frontpage_slides() {
 		)
 	);
 }
+add_action( 'init', 'create_promo_tiles' );
+function create_promo_tiles() {
+	register_post_type( 'promo_tiles',
+		array(
+			'labels' => array(
+				'name' => __( 'Promo Tiles' ),
+				'singular_name' => __( 'Promo Tile' )
+			),
+		'public' => false,
+		'has_archive' => false,
+		'show_ui' => true
+		)
+	);
+}
+add_action( 'init', 'create_job_listings' );
+function create_job_listings() {
+	register_post_type( 'job_listings',
+		array(
+			'labels' => array(
+				'name' => __( 'Job Listings' ),
+				'singular_name' => __( 'Job Listing' )
+			),
+		'public' => true,
+		'has_archive' => true,
+		'show_ui' => true
+		)
+	);
+}
 
 ?>
