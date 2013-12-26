@@ -16,7 +16,7 @@ get_header(); ?>
 <div id="internal-wrap">
   
   <!-- Internal Header -->
-  <?php include 'internal_header.php';?>
+  <?php include 'large_internal_header.php';?>
   
   <?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
   <div id="internal-lower-wrap">

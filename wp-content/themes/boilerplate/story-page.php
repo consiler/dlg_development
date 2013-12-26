@@ -14,7 +14,7 @@
 
 get_header(); ?>
 <div id="internal-wrap">
-  <div id="large-internal-header-wrap">
+  <div id="large-internal-header-wrap" style="display:none;">
     <div id="large-internal-header" class="centered" style="background:url(<?php the_field('page_heading_image'); ?>); background-repeat: no-repeat; background-position:right;">
       <header id="large-internal-header-text">
         <h1><?php the_field('page_heading_text'); ?></h1>
@@ -28,7 +28,7 @@ get_header(); ?>
 
 <!-- Start of blocks -->
 
-<div id="story-block" class="dg-even">
+<div id="story-block" class="dg-even" style="display:none;">
   <div class="container" style="height:200px">
   </div> 
 </div>
