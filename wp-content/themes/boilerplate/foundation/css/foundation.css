@@ -275,24 +275,29 @@ select {
   text-align: center; }
 
 .orbit-bullets {
-  margin: 0 auto 30px auto;
+  margin-left: -50px;
+  left: 228px;
   overflow: hidden;
-  position: relative;
-  top: 10px;
+  position: absolute;
+  top: 36px;
   float: none;
   text-align: center;
   display: inline-block; }
   .orbit-bullets li {
-    display: block;
-    width: 0.5625rem;
-    height: 0.5625rem;
-    background: #cccccc;
-    float: left;
-    margin-right: 6px;
-    -webkit-border-radius: 1000px;
-    border-radius: 1000px; }
+  float: left;
+  margin-left: 5px;
+  cursor: pointer;
+  color: #999;
+  text-indent: -9999px;
+  background-color: #9a9f9d;
+  width: 15px;
+  height: 15px;
+  border-radius: 7px;
+  overflow: hidden; }
     .orbit-bullets li.active {
-      background: #999999; }
+      color: #222;
+      background-color: #3e3f3d;
+       }
     .orbit-bullets li:last-child {
       margin-right: 0; }
 
