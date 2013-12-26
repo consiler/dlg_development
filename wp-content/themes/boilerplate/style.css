@@ -1763,7 +1763,7 @@ blockquote {
     font-style: italic; 
     border-left: 4px solid #ccc;
     margin: 30px 0 0px 15px;
-    padding-left: 15px;    
+    padding-left: 15px;
     background: #f9f9f9;
 }
 
@@ -1789,5 +1789,9 @@ blockquote {
 #story-block #do:after {content: url(/wp-content/themes/boilerplate/images/story/slide3.jpg);}
 
 #numslidesdiv {
+    display: none;
+}
+
+.orbit-timer {
     display: none;
 }
