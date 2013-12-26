@@ -7,6 +7,7 @@ $current_page_class = "current-page";
 //this menu is based on parent-child relationships of the pages themselves
 //it's a backup for when we can't get information from the top nav menu
 function dlg_default_sidebar_menu() {
+  echo "<!-- page-level sidebar menu -->\n";
   global $myID;
   $all_pages = get_pages();
   $children = get_page_children($myID, $all_pages);
@@ -22,7 +23,8 @@ function dlg_default_sidebar_menu() {
   }
   if(!$children_count){
     $all_pages = get_pages();
-    $children = get_page_children($post->post_parent, $all_pages);
+    $thisPostObj = get_post($myID);
+    $children = get_page_children($thisPostObj->post_parent, $all_pages);
     $children_count = 0;
     foreach($children as $child)
     {
@@ -52,6 +54,7 @@ if($nav_items = wp_get_nav_menu_items('Top Navigation')) {
     dlg_default_sidebar_menu();
   //otherwise print the children/siblings of this page
   else {
+    echo "<!-- nav-level sidebar menu -->\n";
     //if this is a top level page, print its children
     //otherwise print its siblings
     if(!$parent) $parent = $myNavID;
