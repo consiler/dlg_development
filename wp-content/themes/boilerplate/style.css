@@ -1306,7 +1306,6 @@ down every time */
 #nav-menu-slide-center {
     overflow: hidden;
     padding-left: 180px;
-    width: 844px;
 }
 #nav-menu-slide .sub-menu {
     display: none;
@@ -1438,6 +1437,38 @@ div.timer {
     letter-spacing: .04em;
     padding-bottom: 4px;
 }
+
+
+/* Case Study Template */
+
+#fp-testimonials {
+    overflow: hidden;
+}
+#fp-testimonials-seemore {
+    float: left;
+    width: 265px;
+    margin: 35px;
+}
+#fp-testimonials-seemore p {
+    color: #33332f;
+    font-family: 'hvnStd_Lite', Monaco;
+}
+#fp-testimonials-seemore span {
+    margin-top: 15px;
+}
+#fp-testimonials-logos {
+    float: right;
+    width: 524px;
+}
+
+#fp-testimonials h4{
+    color: #5197b4;
+    font-family: hvnStd_LiteCn;
+    font-size: 18pt;
+    letter-spacing: .04em;
+    padding-bottom: 4px;
+}
+
 
 /* Internal Page */
 
