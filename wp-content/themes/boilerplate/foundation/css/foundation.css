@@ -282,7 +282,8 @@ select {
   top: 36px;
   float: none;
   text-align: center;
-  display: inline-block; }
+  display: inline-block;
+  z-index: 1010; }
   .orbit-bullets li {
   float: left;
   margin-left: 5px;
