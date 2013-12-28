@@ -1582,6 +1582,7 @@ div.timer {
     padding-top: 30px;
     padding-right: 20px;
     padding-left: 35px;
+    color: #787878;
 }
 #internal-main-content b {
     font-weight: bold;
@@ -1603,6 +1604,12 @@ div.timer {
 }
 #internal-main-content p {
     padding: 10px 0;
+}
+#internal-main-content em {
+    font-style: italic;
+}
+#internal-main-content h5 {
+    font-size: 13px;
 }
 #internal-main-nav {
     float: left;

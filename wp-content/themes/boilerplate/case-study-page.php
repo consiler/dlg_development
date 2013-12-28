@@ -17,8 +17,11 @@ get_header(); ?>
   
   <!-- Large Internal Header -->
   <?php include 'large_internal_header.php';?>
+
   
   <div id="internal-lower-wrap">
+    <div id="internal-lower" class="centered">
+    <div id="internal-main-content">
     <div id="fp-testimonials" class="centered">
     <div id="fp-testimonials-seemore">
       <?php
@@ -55,5 +58,7 @@ get_header(); ?>
       <button><?php //arrow button, may indicate that this is a slideshow of images with logos ?></button>
     </div> -->
   </div>
+  </div>
+</div>
 </div>
 <?php get_footer(); ?>

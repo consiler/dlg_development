@@ -21,6 +21,7 @@ get_header(); ?>
   <?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
   <div id="internal-lower-wrap">
     <div id="internal-lower" class="centered">
+      <div id="internal-main-content">
       <!-- Three Columns -->
         <?php if (get_field('include_three_column')){ ?>
           <div id="internal-lower-wrap">
@@ -104,5 +105,6 @@ get_header(); ?>
     </div>
   </div>
   <?php endwhile; ?>
+</div>
 </div>
 <?php get_footer(); ?>
