@@ -1139,6 +1139,7 @@ p {
     margin: 0 auto;
 }
 span.light-grey-button {
+    margin-top: 20px;
     display: inline-block;
    /* 55 Romain */
     text-transform: uppercase;
@@ -1152,6 +1153,7 @@ span.light-grey-button {
     background-color: rgba(196, 191, 191, 0.3);
 }
 span.lighter-grey-button {
+    margin-top: 20px;
     display: inline-block;
    /* 55 Romain */
     text-transform: uppercase;
